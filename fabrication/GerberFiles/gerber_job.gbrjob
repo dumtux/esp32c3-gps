@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-01-25T23:12:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "esp32 gps pcb"
+        },
+        "Owner": "Cem arlik <cemsarlik@hotmail.com>",
+        "Size": {
+            "X": 40,
+            "Y": 35
+        }
+    }
+}
